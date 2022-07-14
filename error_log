@@ -1,0 +1,134 @@
+[16-May-2021 09:53:42 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: The "/home/hukosvex/public_html/app/views/world" directory does not exist ("/home/hukosvex/public_html/app/views/world"). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('/home/hukosvex/...', '__main__')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/hukosvex/public_html/app/init.php(51): Twig_Loader_Filesystem->__construct('/home/hukosvex/...')
+#3 /home/hukosvex/public_html/index.php(6): require('/home/hukosvex/...')
+#4 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[16-May-2021 09:54:46 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: The "/home/hukosvex/public_html/app/views/world" directory does not exist ("/home/hukosvex/public_html/app/views/world"). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('/home/hukosvex/...', '__main__')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/hukosvex/public_html/app/init.php(51): Twig_Loader_Filesystem->__construct('/home/hukosvex/...')
+#3 /home/hukosvex/public_html/index.php(6): require('/home/hukosvex/...')
+#4 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[16-May-2021 09:54:49 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: The "/home/hukosvex/public_html/app/views/world" directory does not exist ("/home/hukosvex/public_html/app/views/world"). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('/home/hukosvex/...', '__main__')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/hukosvex/public_html/app/init.php(51): Twig_Loader_Filesystem->__construct('/home/hukosvex/...')
+#3 /home/hukosvex/public_html/index.php(6): require('/home/hukosvex/...')
+#4 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[16-May-2021 09:54:51 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: The "/home/hukosvex/public_html/app/views/world" directory does not exist ("/home/hukosvex/public_html/app/views/world"). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('/home/hukosvex/...', '__main__')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/hukosvex/public_html/app/init.php(51): Twig_Loader_Filesystem->__construct('/home/hukosvex/...')
+#3 /home/hukosvex/public_html/index.php(6): require('/home/hukosvex/...')
+#4 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[16-May-2021 11:01:34 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/luxury). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[16-May-2021 11:48:21 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/luxury). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[16-May-2021 13:48:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/hukosvex/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/hukosvex/public_html/index.php on line 155
+[16-May-2021 13:59:26 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/pro-blue). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[16-May-2021 13:59:27 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/pro-blue). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[16-May-2021 15:33:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/hukosvex/public_html/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/hukosvex/public_html/index.php on line 155
+[16-May-2021 20:02:42 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/luxury). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[16-May-2021 20:02:48 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/hukosvex/public_html/app/views/luxury). in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/hukosvex/public_html/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/hukosvex/public_html/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[01-Jun-2021 00:09:48 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "login.twig" (looked into: /home/fzresult/public_html/Socialhero.in/app/views). in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('login.twig')
+#1 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('login.twig')
+#2 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('login.twig')
+#3 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('login.twig')
+#4 /home/fzresult/public_html/Socialhero.in/index.php(145): Twig_Environment->render('login.twig', Array)
+#5 {main}
+  thrown in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[01-Jun-2021 00:10:02 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "login.twig" (looked into: /home/fzresult/public_html/Socialhero.in/app/views). in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('login.twig')
+#1 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('login.twig')
+#2 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('login.twig')
+#3 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('login.twig')
+#4 /home/fzresult/public_html/Socialhero.in/index.php(145): Twig_Environment->render('login.twig', Array)
+#5 {main}
+  thrown in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[01-Jun-2021 14:02:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/fzresult/public_html/Socialhero.in/index.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/fzresult/public_html/Socialhero.in/index.php on line 155
+[02-Jun-2021 16:09:05 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/fzresult/public_html/Socialhero.in/app/views/luxury). in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/fzresult/public_html/Socialhero.in/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
+[02-Jun-2021 16:10:01 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "logout.twig" (looked into: /home/fzresult/public_html/Socialhero.in/app/views/luxury). in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php:226
+Stack trace:
+#0 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php(143): Twig_Loader_Filesystem->findTemplate('logout.twig')
+#1 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(270): Twig_Loader_Filesystem->getCacheKey('logout.twig')
+#2 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(350): Twig_Environment->getTemplateClass('logout.twig')
+#3 /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Environment.php(289): Twig_Environment->loadTemplate('logout.twig')
+#4 /home/fzresult/public_html/Socialhero.in/index.php(145): Twig_Environment->render('logout.twig', Array)
+#5 {main}
+  thrown in /home/fzresult/public_html/Socialhero.in/vendor/twig/twig/lib/Twig/Loader/Filesystem.php on line 226
